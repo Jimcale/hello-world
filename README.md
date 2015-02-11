@@ -1,2 +1,1 @@
-# hello-world
-Just hello-world
+I am Jimcale, new to Github but learning. Thanks
